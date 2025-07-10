@@ -1,4 +1,4 @@
-Binary-Search-Tree-Implementation
+#Binary-Search-Tree-Implementation
 
 
 This project implements a classic Binary Search Tree (BST) in modern C++ (C++11). The BST supports insertion, deletion, searching, and various tree traversal methods (in-order, pre-order, and post-order). It also demonstrates recursive algorithms, memory management, and pointer handling.
@@ -35,3 +35,5 @@ How It Works
 
 - Output:
   - After each deletion, tree is printed using all three traversal methods.
+
+Practical Use: Builds a foundational understanding of tree-based data structures, applicable in databases, file systems, and search algorithms.
